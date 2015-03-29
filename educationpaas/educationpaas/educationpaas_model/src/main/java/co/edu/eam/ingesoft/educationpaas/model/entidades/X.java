@@ -6,4 +6,5 @@ import javax.persistence.Entity;
 public class X {
 private String test;
   private int a;
+  private int b;
 }
