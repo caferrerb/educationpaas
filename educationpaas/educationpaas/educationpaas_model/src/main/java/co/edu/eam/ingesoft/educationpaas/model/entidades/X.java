@@ -1,0 +1,8 @@
+package co.edu.eam.ingesoft.educationpaas.model.entidades;
+
+import javax.persistence.Entity;
+
+@Entity
+public class X {
+
+}

@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>co.edu.eam.ingesoft</groupId>
+  <artifactId>educationpaas</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>educationpaas</name>
+  <description>Aplicacion para la practica y evaluacion de las buenas practicas en el desarrollo de software.</description>
+  <modules>
+  	<module>educationpass_frontend</module>
+  	<module>educationpaas_bussines</module>
+  	<module>educationpaas_integration</module>
+  	<module>educationpaas_model</module>
+  </modules>
+</project>
